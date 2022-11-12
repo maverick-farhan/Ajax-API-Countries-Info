@@ -1,5 +1,4 @@
 # Ajax-API-Countries-Info
 ---  
-[!India Details](./india.png)  
-[!Saudi Details](./saudi.png)
+<img title="XMLHttpRequest Project" alt="India Details" src="./india.png">
 ---
